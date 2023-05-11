@@ -1,0 +1,7 @@
+snscrape
+pymongo
+streamlit
+pandas
+numpy
+dnspython
+-e .
